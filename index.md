@@ -1,6 +1,6 @@
 ## Expressions. Thoughts. Everything
 
-Header of the website 
+an architecture student. contract based lecturer. 
 
 second header, small one
 
