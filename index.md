@@ -1,13 +1,21 @@
 ## Expressions. Thoughts. Everything
 
 
-<center> an architecture student. ex-PoliPD. find me @ahmadsamhann on social media </center>
+<center> 
+  
+  an architecture student. ex-PoliPD. find me @ahmadsamhann on social media 
+  
+</center>
 
 
 ### Interest
 
 <center>
-| Android | Windows | Gaming | ~~Arsenal~~ | FC Internazionale | Die Mannschaft | Cloud9.gg |
+  
+  | Android | Windows | Gaming | 
+  
+  ~~Arsenal~~ | FC Internazionale | Die Mannschaft | Cloud9.gg |
+  
 </center>
 
 ```markdown
