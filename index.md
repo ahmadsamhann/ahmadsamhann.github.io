@@ -1,6 +1,6 @@
 ## Expressions. Thoughts. Everything
 
-an architecture student. contract based lecturer. 
+an architecture student. 
 
 find me @ahmadsamhann on social media
 
