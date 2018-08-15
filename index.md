@@ -1,14 +1,13 @@
 ## Expressions. Thoughts. Everything
 
-<center> `an architecture student.`
+<center> <p>an architecture student.<p>
 
 find me **@ahmadsamhann** on social media</center>
 
 ### Interest
 
-<center>Android. Windows. 
- Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg</center>
-
+<center><p>Android. Windows. <p>
+<p>Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg<p> </center>
 
 ```markdown
 Syntax highlighted code block
