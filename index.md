@@ -7,10 +7,12 @@ find me `@ahmadsamhann` on social media</center>
 
 ### Interest
 
-<center>`Android. Windows.
+<center>
+Android. Windows.
   
 
-Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg`</center>
+Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg
+</center>
 
 ```markdown
 Syntax highlighted code block
