@@ -4,9 +4,10 @@ an architecture student.
 
 find me @ahmadsamhann on social media
 
-### Interest
+<center>### Interest
 
 Android. Windows. Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg
+</center>
 
 ```markdown
 Syntax highlighted code block
