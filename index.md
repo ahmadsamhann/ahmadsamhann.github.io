@@ -3,7 +3,10 @@
 <center> an architecture student. ex-PoliPD.
 
 
-find me **@ahmadsamhann** on social media</center>
+find me **@ahmadsamhann** on social media
+
+[Facebook](http://facebook.com/ahmadsamhann)
+[Twitter](http://twitter.com/ahmadsamhann)</center>
 
 ### Interest
 
