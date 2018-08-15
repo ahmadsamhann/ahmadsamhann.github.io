@@ -8,7 +8,7 @@ find me `@ahmadsamhann` on social media</center>
 ### Interest
 
 <center>
-Android. Windows.
+Android. Windows. Gaming.
   
 
 Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg
