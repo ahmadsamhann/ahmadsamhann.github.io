@@ -1,6 +1,7 @@
 ## Expressions. Thoughts. Everything
 
-<center> an architecture student. ex-PoliPD. find me **@ahmadsamhann** on social media
+
+<center> an architecture student. ex-PoliPD. find me @ahmadsamhann on social media </center>
 
 
 ### Interest
