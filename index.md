@@ -7,10 +7,10 @@
 ### Interest
 
 <center>
-Android. Windows. Gaming.
+| Android | Windows | Gaming |
   
 
-Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg
+| Arsenal | FC Internazionale | Die Mannschaft | Cloud9.gg |
 </center>
 
 ```markdown
