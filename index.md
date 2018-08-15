@@ -1,8 +1,8 @@
 ## Expressions. Thoughts. Everything
 
-<center>an architecture student. 
+<center> `an architecture student.`
 
-find me @ahmadsamhann on social media</center>
+find me **@ahmadsamhann** on social media</center>
 
 ### Interest
 
