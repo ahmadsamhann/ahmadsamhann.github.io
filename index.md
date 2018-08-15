@@ -1,12 +1,13 @@
 ## Expressions. Thoughts. Everything
 
-an architecture student. 
+<center>an architecture student. 
 
-find me @ahmadsamhann on social media
+find me @ahmadsamhann on social media</center>
 
 ### Interest
 
-<center>Android. Windows. Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg</center>
+<center>Android. Windows. 
+ Arsenal. FC Internazionale. Die Mannschaft. Cloud9.gg</center>
 
 
 ```markdown
